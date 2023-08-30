@@ -1,10 +1,9 @@
 # Diana's First CS193 Homework
 
+What I like about the class
 - The PSOs are virtual and optional
 - It's taught by other students that know what we are going through
 - The class only meets once a week
-  
-
 
 ## Welcome to GitHub Pages
 
